@@ -5,14 +5,14 @@ This repository includes a script run_analysis.R which is used to clean the data
 The data for the project is available at : https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 The script uses the data from following files in the data set:
-UCI HAR Dataset/test/X_test.txt
-UCI HAR Dataset/test/y_test.txt
-UCI HAR Dataset/test/subject_test.txt
-UCI HAR Dataset/train/X_train.txt
-UCI HAR Dataset/train/y_train.txt
-UCI HAR Dataset/train/subject_train.txt
-UCI HAR Dataset/features.txt
-UCI HAR Dataset/activity_labels.txt
+*UCI HAR Dataset/test/X_test.txt
+*UCI HAR Dataset/test/y_test.txt
+*UCI HAR Dataset/test/subject_test.txt
+*UCI HAR Dataset/train/X_train.txt
+*UCI HAR Dataset/train/y_train.txt
+*UCI HAR Dataset/train/subject_train.txt
+*UCI HAR Dataset/features.txt
+*UCI HAR Dataset/activity_labels.txt
 
 The script performs following tasks:
 1.  Load dplyr package which will be used to clean the data
