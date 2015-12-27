@@ -23,6 +23,7 @@ UCI HAR Dataset/features.txt
 UCI HAR Dataset/activity_labels.txt
 
 The script performs following tasks:
+
 1. Load dplyr package which will be used to clean the data
 2. Load required data using read.table
 3. Merge the x_test_data and the x_train_data to create one full data set using rbind
