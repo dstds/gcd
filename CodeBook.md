@@ -5,7 +5,8 @@ This code book describes the variables, the data, and the work performed to clea
 ###Data
 The data for the project is available at : https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip  
 
-The dataset includes the following files which are used in clean up:
+The dataset includes the following files which are used in clean up:  
+
 UCI HAR Dataset/test/X_test.txt: Test set.  
 UCI HAR Dataset/test/y_test.txt: Test labels.  
 UCI HAR Dataset/test/subject_test.txt: Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30.  
